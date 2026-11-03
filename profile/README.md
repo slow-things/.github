@@ -1,6 +1,6 @@
 # Slow Things
 
-![slow things](./logo.svg)
+![slow things](../logo.svg)
 
 Slow Things is an independent creative practice and research unit, specialising in delivering end-to-end interactive media products & services, across digital and tangible objects/spaces.
 
